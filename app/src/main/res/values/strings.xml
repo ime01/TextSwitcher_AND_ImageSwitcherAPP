@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TextSwitcher&amp;ImageSwitcher</string>
+    <string name="this_is_a_text_switch_app_by_flowz">This is a text switch app by FLOWZ!</string>
+    <string name="this_is_an_image_switcher_app_by_flowz">This is an image Switcher App by Flowz</string>
+</resources>
